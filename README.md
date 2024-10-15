@@ -55,6 +55,6 @@ Me gusta trabajar en pequeños proyectos personales para seguir aprendiendo y es
 #### Hablamos?:
 - LinkedIn: https://www.linkedin.com/in/erick-yoseth-noguera-olaizola-799b95332
 - Email: erick.noguera0410@gmail.com
-
+- Region Metropolitana, Santiago de Chile
 
 
