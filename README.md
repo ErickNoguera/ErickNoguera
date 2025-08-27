@@ -54,7 +54,23 @@ También me motiva compartir lo que sé, colaborar en equipo y aportar más all�
 
 ---
 
+### 📊 **Estadísticas de GitHub**  
+
+<div align="center">
+
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickNoguera&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNoguera&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickNoguera&theme=tokyonight&hide_border=true)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=ErickNoguera&color=blueviolet&style=flat-square)  
+
+</div>  
+
+---
+
 #### 📬 ¿Hablamos?  
 - LinkedIn: [linkedin.com/in/erickyosethnogueraolaizola](https://www.linkedin.com/in/erickyosethnogueraolaizola)  
 - Email: erick.noguera0410@gmail.com  
-- Región Metropolitana, Santiago de Chile 
+- Región Metropolitana, Santiago de Chile  
