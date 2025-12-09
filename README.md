@@ -67,7 +67,7 @@ También me motiva compartir lo que sé, colaborar en equipo y aportar más all�
 ---
 
 #### 📬 ¿Hablamos?  
-- Portafolio: (https://ericknoguera.netlify.app)
+- Portafolio: [Portafolio](https://ericknoguera.netlify.app)
 - LinkedIn: [linkedin.com/in/erickyosethnogueraolaizola](https://www.linkedin.com/in/erickyosethnogueraolaizola)
 - Email: erick.noguera0410@gmail.com  
 - Región Metropolitana, Santiago de Chile  
